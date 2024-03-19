@@ -1,1 +1,1 @@
-Webserver project in Go ✨
+Web server project in Go ✨
